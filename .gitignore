@@ -1,0 +1,60 @@
+# Build results
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# ReSharper cache
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.rider/
+
+# Local environment
+.env
+.env.local
+
+# Node modules (if using Playwright Node packages)
+node_modules/
+
+# Playwright
+.playwright/
+.browsers/
+
+# Build logs and temporary files
+build-output*.txt
+*.log
+
+# NuGet
+.nuget/
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+*.csproj.nuget.dgspec.json
+project.assets.json
+
+# Test results
+TestResults/
+*.trx
+
+# Publish
+PublishProfiles/
+publish/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+*.lnk
